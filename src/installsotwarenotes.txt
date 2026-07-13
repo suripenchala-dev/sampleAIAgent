@@ -1,0 +1,2 @@
+pip install openai python-dotenv tiktoken
+pip freeze > requirements.txt
